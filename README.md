@@ -1,5 +1,13 @@
-### Hi there 👋
+#### :raised_hand_with_fingers_splayed: Hi I am @Ken Nipper
+#### I have been programming since 1990
+I develop with C#, WPF, Python, C, C++ and more.
 
+I also use SQL Server, MySQL, SQLite, Informix databases.
+
+ASP.Net, Winforms, WPF, Amazon Web Services, Google Cloud and Azure
+
+Currently learning .Net6 Maui :slightly_smiling_face:
+#### 📫 How to reach me: Ken.Nipper@gmail.com, (Facebook Ken Nipper).
 <!--
 **kencctt11/kencctt11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
