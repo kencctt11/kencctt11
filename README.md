@@ -2,7 +2,7 @@
 #### Software Developer for 30 years.
 I develop with C#, XAML, Python, C, C++ on Windows and Linux.
 
-Experince with SQL Server, MySQL, SQLite databases.
+SQL Server, MySQL, SQLite databases.
 
 ASP.Net, Winforms, WPF. 
 
