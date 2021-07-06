@@ -6,11 +6,11 @@ SQL Server, MySQL, SQLite databases.
 
 ASP.Net, Winforms, WPF. 
 
-Apache Tom Cat and Internet Information Server.
+Apache server and Internet Information Server.
 
 Amazon Web Services, Google Cloud and Azure.
 
-Currently learning .Net6 Maui and Blazor :slightly_smiling_face:
+:slightly_smiling_face:
 #### 📫 How to reach me: Ken.Nipper@gmail.com, (Facebook Ken Nipper).
 <!--
 **kencctt11/kencctt11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
