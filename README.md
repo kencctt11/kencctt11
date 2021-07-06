@@ -2,13 +2,15 @@
 #### Software Developer for 30 years.
 I develop with C#, XAML, Python, C, C++ on Windows and Linux.
 
-SQL Server, MySQL, SQLite databases.
+SQL Server, MySQL Server, SQLite databases.
 
-ASP.Net, Winforms, WPF. 
+ASP.Net, Winforms, Entity, WPF, Blazor. 
 
 Apache server and Internet Information Server.
 
-Amazon Web Services, Google Cloud and Azure.
+Amazon Web Services - EC2 - Virtual Machines
+
+Google Cloud and Azure.
 
 :slightly_smiling_face:
 #### 📫 How to reach me: Ken.Nipper@gmail.com, (Facebook Ken Nipper).
