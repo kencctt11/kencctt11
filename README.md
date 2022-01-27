@@ -8,7 +8,7 @@ My favorite databases are SQL Server, MySQL Server and SQLite. Most of my apps
 use some form of non-volatile data so download, setup, configure, administer are
 always part of the process. 
 
-Security features such as Axure vaults to store sensitive data are always useful
+Security features such as Azure vaults to store sensitive data are always useful
 and sometimes required for proper security of applications.
 
 Collaberators are welcome to contact me about gaining access to my private repositories.
