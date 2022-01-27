@@ -1,6 +1,6 @@
 #### :raised_hand_with_fingers_splayed: Thank you for visiting. I am @Ken Nipper
 #### Software Developer for 30 years.
-I develop web and mobile apps with C# Blazor, C# WPF using the .Net 5.0 and 6.0.
+I develop web and mobile apps with C# Blazor, C# WPF using .Net 5.0 and 6.0.
 All of my projects are properly pushed to repositories and are updated(pushed) constantly.
 Thank you github for such a wonderful service. 
 
