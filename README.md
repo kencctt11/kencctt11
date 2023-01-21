@@ -21,7 +21,7 @@ Also check out my new Twitter Stream App that is a scalable tool for processing 
 
 :slightly_smiling_face:
 #### 📫 How to reach me: ken.nipper@gmail.com.
-https://dev.azure.com/kennipper
+https://dev.azure.com/kennipper   
 https://www.facebook.com/groups/1756452287944476
 <!--
 **kencctt11/kencctt11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
