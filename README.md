@@ -13,7 +13,7 @@ and sometimes required for proper security of applications so I use it on mopst 
 
 Collaberators are welcome to contact me about gaining access to my private repositories.
 
-My Current Projects include BunnyBreeder, MongoDBCRUD, MinimalAPICRUD and ConsoleCommand for Dosker and PowerShell.
+My Current Projects include BunnyBreeder, MongoDBCRUD, MinimalAPICRUD and ConsoleCommand for Docker and PowerShell.
 Also check out my new Twitter Stream App that is a scalable tool for processing current tweets for subjects matter and hastags popularity.
 
 
