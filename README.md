@@ -1,7 +1,7 @@
 #### :raised_hand_with_fingers_splayed: Thank you for visiting. I am @Ken Nipper
 #### Software Developer for 30 years.
 I develop web and mobile apps with C# Blazor, C# WPF using .Net 5.0 and 6.0.
-All of my projects are properly pushed to repositories and are updated(pushed) constantly.
+All of my projects are properly pushed to repositories and are updated using continuos integration and Agile processes.
 Thank you github for such a wonderful service. 
 
 My current databases are SQL Server, MySQL Server, SQLite amd MongoDB.
