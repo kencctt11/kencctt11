@@ -4,18 +4,19 @@ I develop web and mobile apps with C# Blazor, C# WPF using .Net 5.0 and 6.0.
 All of my projects are properly pushed to repositories and are updated(pushed) constantly.
 Thank you github for such a wonderful service. 
 
-My favorite databases are SQL Server, MySQL Server and SQLite. Most of my apps
-use some form of non-volatile data so download, setup, configure, administer are
-always part of the process. 
+My current databases are SQL Server, MySQL Server, SQLite amd MongoDB.
+I also have DevOps repos with some nice projects.
+https://dev.azure.com/kennipper
 
 Security features such as Azure vaults to store sensitive data are always useful
-and sometimes required for proper security of applications.
+and sometimes required for proper security of applications so I use it on mopst projects as well.
 
 Collaberators are welcome to contact me about gaining access to my private repositories.
 
 My Current Project is for an animal reproduction application. It runs on web browser
 and Android and Iphone. All versions of the app are connected to a common SQL Database.
 Users can choose to use the web app or also use the mobile versions.
+Also check out my new Twitter Stream App that is a scalable tool for processing current tweets for subjects matter and hastags popularity.
 
 
 :slightly_smiling_face:
