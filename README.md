@@ -1,12 +1,11 @@
 #### :raised_hand_with_fingers_splayed: Thank you for visiting. I am @Ken Nipper
-#### Software Developer for 30 years.
-I am a full stack developer for desktop, web and mobile apps with .Net Blazor, MAUI, MVC, WPF using .Net 6.0 and 7.0.
+#### Software Developer for 35 years.
+I am a full stack developer for desktop, web and mobile apps with .Net Blazor, MAUI, MVC, WPF using .Net 8.0.
 All of my projects are updated using continuos integration and Agile processes.
 Thank you github for such a wonderful service. 
 
 My current databases are SQL Server, MySQL Server, SQLite amd MongoDB.
 I also have DevOps repos with some nice projects.
-https://dev.azure.com/kennipper
 
 Security features such as Azure vaults to store sensitive data are always useful
 and sometimes required for proper security of applications so I use it on mopst projects as well.
